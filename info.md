@@ -4,7 +4,7 @@
 
 - 개발기간 : 2021.06.28 ~ 2021.08.13 (약 7주)
 - 개발인원
-    - Front-end (My position) : 2명, Back-end: 2명 (총5명)
+    - Front-end (My position) : 2명, Back-end: 2명 (총4명)
     - git을 통한 협업은 ssafy에서 관리하는 서버의 gitlab을 활용.
 
 ## Tech Stack
